@@ -5,8 +5,8 @@ enum DayTime { morning, noon, evening, night }
 enum Weather { sunny, rainy, stormy }
 
 void main() {
-  int? atackScore = 20;
-  Character caracter = Character.warrior;
+  int? atackScore = 44;
+  Character caracter = Character.mage;
   DayTime daytime = DayTime.morning;
   Weather weather = Weather.sunny;
 
